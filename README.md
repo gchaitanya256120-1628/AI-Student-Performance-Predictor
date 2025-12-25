@@ -53,3 +53,22 @@ RESULT: PASS
 👤 Author
 Chaitanya
 B.Tech 1st Year Student
+
+## 🚀 Highlights / Skills Demonstrated
+- C programming for data input and CSV management
+- Python ML (Random Forest / Logistic Regression)
+- Pandas for data handling
+- Scikit-learn for AI model building
+- Integrated multi-language project (C + Python)
+- Real-world project showcasing logic + AI + programming
+
+## 📊 Sample Output
+
+--- Student Performance Prediction ---
+Enter attendance: 80  
+Enter study hours: 15  
+Enter internal marks: 30  
+
+RESULT: PASS
+
+![Project Screenshot](output.png)
